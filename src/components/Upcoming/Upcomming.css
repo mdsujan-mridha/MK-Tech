@@ -22,3 +22,18 @@
     font-weight: 500;
     color: rgba(0, 0, 0, 0.616);
 }
+
+
+
+
+/* media screen  */
+@media screen and (max-width: 600px) {
+    .new-line{
+        display: none;
+    }
+}
+@media screen and (max-width: 992px) {
+    .new-line{
+        display: none;
+    }
+  }

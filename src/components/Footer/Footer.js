@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='footer'>
             <div className='container'>
                  <div className='row'>
-                     <div className='col-12 col-md-6 col-lg-3 left-side'>
+                     <div className='col-12 col-md-12 col-lg-3 left-side'>
                        <h1 className='footer-about'>  About us </h1>
                      <p>  Being a music lover is like possessing an excellent mate that could help you in all of your Thick n thins..!!
 
@@ -21,7 +21,7 @@ In short its EPIC FUN being a Music lover !!!
 </p>
                      </div>
                      
-                     <div className='col-12 col-md-6 col-lg-3 middle-side'>
+                     <div className='col-12 col-md-12 col-lg-3 middle-side'>
                          <h1> Quick Link </h1>
                          <ul>
                          <Link to="home"> Home </Link>
@@ -31,7 +31,7 @@ In short its EPIC FUN being a Music lover !!!
                          </ul>
                       
                      </div>
-                     <div className='col-12 col-md-6 col-lg-3 right-side'>
+                     <div className='col-12 col-md-12 col-lg-3 right-side'>
                           <h1> Follow us with </h1>
                         <ul>
                         <li>  <BsFacebook /> </li>
